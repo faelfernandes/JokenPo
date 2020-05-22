@@ -15,6 +15,8 @@ INFORMAÇÕES:
 -> Sistema feito simulando uma "Inteligência Artifical" onde jogamos contra a maquina, sendo que o CPU gera um número aleatório: 
    0, 1 ou 2. Sendo assim o CPU escolhendo a jogada aleatóriamente.
 
+-> Sistema de placar marcado os pontos de cada rodada, de quem venceu, perdeu ou sendo empate não computando vítoria para nenhum dos dois.
+
 
 by: Rafael Fernandes
 
