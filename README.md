@@ -1,5 +1,7 @@
 # JokenPo | Iniciante.
 
+Copie o arquivo .cpp
+
 Exercício C++ | Pedra, Papel, Tesoura | JokenPo
 
 Exercício feito com os conhecimentos passados pela Prof. Francila Weidt, na INTRODUÇÃO À PROGRAMAÇÃO ESTRUTURADA EM C - Faculdade Estácio.
